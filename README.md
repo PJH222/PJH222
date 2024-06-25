@@ -1,6 +1,6 @@
 개발하는 공돌이
 
-現 L기업 품질관리자 <br/> 前 LG그룹 QA Eng'r
+現 L기업 품질관리자 <br/> ~~前 LG그룹 QA Eng'r~~
 
 ### 👋 Hi, I’m @PJH222
 
