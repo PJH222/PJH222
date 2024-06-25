@@ -1,8 +1,6 @@
-<!---
-PJH222/PJH222 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
-=======
+**現** L기업 품질관리자
+前 LG그룹 QA Eng'r
+
 ### 👋 Hi, I’m @PJH222
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=PJH222&show_icons=true&theme=radical)
